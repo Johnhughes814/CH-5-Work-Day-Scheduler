@@ -15,6 +15,7 @@ A simple HTML, CSS, and JS site that uses local storage to save entries in your 
 ## Table of Contents
   - [Licenses](#licenses)
   - [Context](#context)
+  - [Installation](#installation)
   - [Usage](#usage)
   - [Contributers](#contributers)
   - [Contact](#contact)
@@ -26,6 +27,15 @@ A simple HTML, CSS, and JS site that uses local storage to save entries in your 
 
 ## Context
 A daily planner which allows users to save tasks by the hour.
+
+## Installation
+```
+npm i
+```
+
+```
+npm start
+```
 
 ## Usage
 Feel free to download, fork, clone, or replicate and enjoy!
