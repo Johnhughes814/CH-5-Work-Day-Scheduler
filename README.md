@@ -33,10 +33,6 @@ A daily planner which allows users to save tasks by the hour.
 npm i
 ```
 
-```
-npm start
-```
-
 ## Usage
 Feel free to download, fork, clone, or replicate and enjoy!
 
