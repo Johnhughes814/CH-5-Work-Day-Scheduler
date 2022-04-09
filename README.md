@@ -17,7 +17,6 @@ A simple HTML, CSS, and JS site that uses local storage to save entries in your 
   - [Context](#context)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Contributers](#contributers)
   - [Contact](#contact)
 
 
